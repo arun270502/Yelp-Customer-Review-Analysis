@@ -5,6 +5,7 @@ Yelp reviews showed steady growth from 2005 to 2019, peaking in 2018, before dec
 Accessibility emerged as a crucial factor, with wheelchair-accessible locations receiving the highest ratings and review counts. This demonstrates the value of inclusivity and high operational standards in driving customer satisfaction. Seasonal peaks in reviews during July, August, and January, and high activity on Sundays, Wednesdays, and Saturdays, highlight the importance of optimizing service and promotions during these periods. Encouraging detailed positive reviews and spotlighting "cool" or "useful" feedback can further enhance engagement and guide businesses in improving their offerings. By prioritizing quality service, adapting to trends, and fostering strong customer relationships, restaurant owners can build loyalty and maintain a competitive edge in a dynamic dining landscape.
 
 
+Tableau Dashboard: https://public.tableau.com/views/775ProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 Contributors: Arundhati Kolahal, Kendall Sims, Wei-An Huang, MingHua Tsai, Rinaldo Patel, Mingshu Hong
